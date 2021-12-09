@@ -5,7 +5,7 @@ Execovid_dashboard is a Python package used to display live covid data and news 
 This package requires both Flask and the uk_covid19 modules to be able to load the web based UI and update live covid data. Detailed information for these 2 external modules is provided below:\
 \
 https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/ \
-https://flask.palletsprojects.com/en/2.0.x/ \
+https://flask.palletsprojects.com/en/2.0.x/ 
 
 ### Other requirements
 I've been running the application on Python 3.10, however versions as early as 3.6 should still work.\
