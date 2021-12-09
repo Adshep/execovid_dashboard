@@ -1,0 +1,8 @@
+{
+    "covid_handler": {
+        "api_key": "INSERT API KEY HERE",
+        "picture": "covid_picture.png",
+        "local_location": "Exeter",
+        "national_location": "England"
+    }
+}
